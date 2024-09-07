@@ -1,0 +1,27 @@
+body{
+
+    background-color:aqua;}
+    
+    .intro{
+        position: absolute;
+        top:10px;
+        left:200px
+        
+    }
+    
+.linklogo{
+    position: absolute;
+        margin:0%;
+        top: 10px;
+        left:210px;
+        size: 40px;
+    }
+
+.git{
+    position:absolute;
+    top:60px;
+    left: 210px;
+
+
+
+}
